@@ -1,0 +1,65 @@
+html {
+    font-family: Bookman, URW Bookman L, serif;
+    background-color: white;
+  }
+ 
+h1, h3 {
+    color: #d4c00b;
+    text-decoration: underline;
+  }
+
+h2 {
+    color: #333333;
+    font-size: 1em;
+    margin-bottom: 18px;
+  }
+
+img {
+    border-radius: 15px;
+    border: 3px solid #d4c00b;
+}
+  
+.cv {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: rgb(170, 248, 194);
+    padding: 4px;
+    border: 3px solid #d4c00b;
+    border-radius: 11px ;
+  }
+  
+  section {
+    margin-bottom: 3em;
+    position: relative;
+  }
+
+.contact {
+    display: flex;
+  }
+
+.value {
+    color: blue;
+}
+.type {
+    min-width: 90px;
+    color: #333333;
+  }
+  
+.experience {
+    display: flex;
+    margin-bottom: 2em;
+  }
+  
+.date {
+    min-width: 200px;
+    margin-bottom: 1em;
+    color: #2f80ed;
+    text-decoration: underline;
+  }
+  
+.name {
+    font-weight: bold;
+  }
+  
+
+  
